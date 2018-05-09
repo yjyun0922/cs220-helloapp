@@ -1,1 +1,3 @@
-# cs220-helloapp
+# HelloApp
+
+A cutting-edge web application for saying hello to people.
