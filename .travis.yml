@@ -1,0 +1,9 @@
+language: Python
+
+jobs: 
+  include: 
+    - stage: test 
+      script: 
+      - cd tests
+      - pytest 
+
